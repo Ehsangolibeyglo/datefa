@@ -8,7 +8,7 @@
 - Dateyear
 - Datecar
 - Dateint
-- Dateda
+- Dateday
 ---
 ```python
 from datefa import Datefa
